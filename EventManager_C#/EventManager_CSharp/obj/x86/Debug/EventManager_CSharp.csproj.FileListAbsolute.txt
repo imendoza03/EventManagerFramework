@@ -1,0 +1,5 @@
+Z:\Documents\Uni 2014-2015\Distributed Systems and Middleware\EventManagerFramework\EventManager_C#\EventManager_CSharp\bin\Debug\EventManager_CSharp.exe
+Z:\Documents\Uni 2014-2015\Distributed Systems and Middleware\EventManagerFramework\EventManager_C#\EventManager_CSharp\bin\Debug\EventManager_CSharp.pdb
+Z:\Documents\Uni 2014-2015\Distributed Systems and Middleware\EventManagerFramework\EventManager_C#\EventManager_CSharp\obj\x86\Debug\EventManager_CSharp.csprojResolveAssemblyReference.cache
+Z:\Documents\Uni 2014-2015\Distributed Systems and Middleware\EventManagerFramework\EventManager_C#\EventManager_CSharp\obj\x86\Debug\EventManager_CSharp.exe
+Z:\Documents\Uni 2014-2015\Distributed Systems and Middleware\EventManagerFramework\EventManager_C#\EventManager_CSharp\obj\x86\Debug\EventManager_CSharp.pdb
